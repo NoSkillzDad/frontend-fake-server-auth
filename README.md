@@ -72,3 +72,5 @@ Alleen ingelogde gebruikers kunnen deze algemene afgeschermde content opvragen. 
   Authorization: "Bearer xxx.xxx.xxx",
 }
 ```
+
+[Original GitHub Repo](git@github.com:hogeschoolnovi/frontend-fake-server.git)
